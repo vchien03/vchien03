@@ -2,7 +2,8 @@
 
 - 🙋‍♀️我就讀於中央大學地科院學士班，目前大二，主要學習水文領域
 - 💻曾接觸過C++、Java、Python，現在主要學習Python
-- 📧v111605501@g.ncu.edu.tw 有任何問題歡迎聯絡我！
+- 💪正在努力熟悉Github
+- 📧 v111605501@g.ncu.edu.tw 有任何問題歡迎聯絡我！
 
 <!--
 **vchien03/vchien03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
